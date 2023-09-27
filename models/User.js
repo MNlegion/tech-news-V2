@@ -7,6 +7,7 @@ class User extends Model {}
 // define table columns and configuration
 User.init(
   {
+    
     // TABLE COLUMN DEFINITIONS GO HERE
     // define an id column
     id: {
